@@ -1,0 +1,14 @@
+.price {
+    position: absolute;
+    margin-top: 8px;
+    margin-left:28px;
+    font-size: 25px;
+    color:#fff;
+    font-weight: bold;
+    z-index: 10000;
+}
+img.img{
+
+    filter: alpha(Opacity=50);
+    opacity: 0.5;
+}
